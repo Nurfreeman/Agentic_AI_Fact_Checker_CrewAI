@@ -8,7 +8,6 @@ Agentic AI fact-checking system using CrewAI multi-agent architecture with LLM-b
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)]()
 
 👤 Author: Nuru Siraj Mohammed  
-🎓 PhD Student – Management & Business Administration  
 🤖 Machine Learning & AI Graduate – Smart AI LLC  
 
 ---
